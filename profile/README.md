@@ -3,7 +3,7 @@ Everything that belongs to the RCPRC Organization will be listed here e.g reposi
 
 ---
 
-## Projects
+## Projects (PRC)
 
 ### RCPRC-0001 - Java
 Useful and tiny programs written in java
@@ -22,10 +22,14 @@ Useful and compact shell scripts
 
 ---
 
-## Education
+## Education (EDU)
 
 ---
 
-## Services
+## Services (SVC)
 
+### RCSVC-0001
+A service that monitors ports, based on shell
+
+[RCSVC-0001](https://github.com/RCPRC/RCSVC-0001)
 ---

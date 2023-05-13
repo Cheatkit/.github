@@ -9,6 +9,8 @@ assignees: ''
 
 ## Issue Submission Guidelines
 
+Note the header `Issue Submission Guidelines` can be deleted after ensuring everything is in order.
+
 Thank you for your interest in contributing to our project! Before submitting an issue, please ensure that you have followed these guidelines:
 
 ### Issue Title

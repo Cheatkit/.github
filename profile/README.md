@@ -20,6 +20,10 @@ Useful and compact shell scripts
 
 [RCPRC-0003](https://github.com/RCPRC/RCPRC-0003)
 
+### RCPRC-0004 - Python
+Useful and compatct python scripts
+
+[RCPRC-0004](https://github.com/RCPRC/RCPRC-0004)
 <br>
 
 ---

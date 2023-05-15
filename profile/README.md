@@ -41,7 +41,4 @@ A service that monitors ports, based on shell
 
 ---
 
-## Game Developement (GMD)
-Games in development
-
-[RCGMD-0001](https://github.com/RCPRC/RCGMD-0001)
+&copy; CastouloLee
